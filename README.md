@@ -341,9 +341,9 @@ jupyter
 
 ## 📬 Connect With Me
 
-- 💼 **LinkedIn:** [your LinkedIn URL]
-- 🐙 **GitHub:** [your GitHub profile URL]
-- 📧 **Email:** [your email]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/siddharthkeshwani/
+- 🐙 **GitHub:** https://github.com/Siddharthkeshwani
+- 📧 **Email:** sidkeshwani16@gmail.com
 
 ---
 
